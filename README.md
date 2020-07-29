@@ -1,3 +1,4 @@
+![Cover](https://github.com/bezedache29/bezedache29/blob/master/img/cover.jpg)
 ## Christophe Salou
 Etudiant pour devenir développeur Web & Mobile
 
@@ -32,7 +33,7 @@ https://portfolio.ripley.eu/
 ### Contact
 bezedache29@gmail.com
 
-![Cover](https://github.com/bezedache29/bezedache29/tree/master/img/cover.jpg)
+
 
 
 <!--
