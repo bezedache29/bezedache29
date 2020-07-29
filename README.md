@@ -32,7 +32,7 @@ https://portfolio.ripley.eu/
 ### Contact
 bezedache29@gmail.com
 
-![Cover](https://github.com/bezedache29/bezedache29/tree/master/img/atrg-binary-banner.jpg)
+![Cover](https://github.com/bezedache29/bezedache29/tree/master/img/cover.jpg)
 
 
 <!--
