@@ -1,4 +1,36 @@
-### Hi there 👋
+## Christophe Salou
+Etudiant pour devenir développeur Web & Mobile
+
+### Les languages appris
+- HTML
+- CSS
+- PHP
+- JS
+
+### Les frameworks appris
+- Bootstrap 4
+- Materializecss
+
+### CMS
+- Wordpress (Création de thèmes et utilistation du plugin ACF)
+
+### Autres
+- Adobe Illustrator
+- Adobe XD
+
+### Notions
+- WebMarketing
+- SEO
+- WebDesign
+- Gestion de projet
+
+### Portfolio
+https://portfolio.ripley.eu/
+
+### Je recherche actuellement un contrat de professionnalisation pour ma deuxième année de formation (2020 / 2021)
+
+### Contact
+bezedache29@gmail.com
 
 <!--
 **bezedache29/bezedache29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
