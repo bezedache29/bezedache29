@@ -32,6 +32,9 @@ https://portfolio.ripley.eu/
 ### Contact
 bezedache29@gmail.com
 
+![Cover](https://github.com/bezedache29/bezedache29/tree/master/img/cover.jpg)
+
+
 <!--
 **bezedache29/bezedache29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
