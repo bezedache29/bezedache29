@@ -2,14 +2,21 @@
 Etudiant pour devenir développeur Web & Mobile
 
 ### Les languages appris
-- HTML
-- CSS
-- PHP
-- JS
+- HTML 5
+- CSS 3
+- PHP 7/8
+- JS ES6 à ES9
 
-### Les frameworks appris
+### Les frameworks CSS appris
 - Bootstrap 4
 - Materializecss
+
+### Les frameworks JS appris
+- ReactJS
+- Vue.js
+
+### Les frameworks PHP appris
+- Laravel 8
 
 ### CMS
 - Wordpress (Création de thèmes et utilistation du plugin ACF)
