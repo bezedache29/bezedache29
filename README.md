@@ -6,17 +6,27 @@ Etudiant pour devenir développeur Web & Mobile
 - CSS 3
 - PHP 7/8
 - JS ES6 à ES9
+- Kotlin
 
 ### Les frameworks CSS appris
-- Bootstrap 4
+- Bootstrap 4 / 5
 - Materializecss
+- Tailwind CSS
 
 ### Les frameworks JS appris
 - ReactJS
-- Vue.js
+- Vue.js 3
 
 ### Les frameworks PHP appris
-- Laravel 8
+- Laravel 8 / Livewire
+
+### Base de données
+- MySql
+- Firebase
+
+### Environnement de développement
+- Visual Studio Code
+- Android Studio
 
 ### CMS
 - Wordpress (Création de thèmes et utilistation du plugin ACF)
@@ -24,17 +34,21 @@ Etudiant pour devenir développeur Web & Mobile
 ### Autres
 - Adobe Illustrator
 - Adobe XD
+- Git
+- Github
+- Gitkraken
 
 ### Notions
 - WebMarketing
 - SEO
 - WebDesign
 - Gestion de projet
+- Progressive Web App
 
 ### Portfolio
 https://portfolio.ripley.eu/
 
-### Je recherche actuellement un contrat de professionnalisation pour ma deuxième année de formation (2020 / 2021)
+### Je recherche actuellement un contrat de professionnalisation pour ma deuxième année de formation (2021 / 2022)
 
 ### Contact
 bezedache29@gmail.com
