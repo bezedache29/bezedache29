@@ -48,7 +48,9 @@ Etudiant pour devenir développeur Web & Mobile
 ### Portfolio
 https://portfolio.ripley.eu/
 
-#### Je recherche actuellement un contrat de professionnalisation pour ma deuxième année de formation (2021 / 2022)
+```diff
+- Je recherche actuellement un contrat de professionnalisation pour ma deuxième année de formation (2021 / 2022)
+```
 
 ### Contact
 bezedache29@gmail.com
