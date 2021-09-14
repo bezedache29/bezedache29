@@ -37,6 +37,7 @@ Etudiant pour devenir développeur Web & Mobile
 - Wordpress (Création de thèmes et utilistation du plugin ACF)
 
 ### Autres
+- Postman
 - Adobe Illustrator
 - Adobe XD
 - Git
