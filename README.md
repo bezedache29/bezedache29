@@ -24,6 +24,7 @@ Etudiant pour devenir développeur Web & Mobile
 ### Base de données
 - MySql
 - Firebase
+- MonogoDB
 
 ### Mobile
 - Kotlin
