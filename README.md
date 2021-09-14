@@ -15,7 +15,7 @@ Etudiant pour devenir développeur Web & Mobile
 ### Les frameworks JS
 - jQuery
 - React
-- Vue.js 3
+- Vue.js 3 - VueX - VueRouter
 
 ### Les frameworks PHP
 - Laravel 8 / Livewire
