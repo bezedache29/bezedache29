@@ -1,28 +1,33 @@
 ## Christophe Salou
 Etudiant pour devenir développeur Web & Mobile
 
-### Les languages appris
+### Les languages
 - HTML 5
 - CSS 3
 - PHP 7/8
 - JS ES6 à ES9
-- Kotlin
 
-### Les frameworks CSS appris
+### Les frameworks CSS
 - Bootstrap 4 / 5
 - Materializecss
 - Tailwind CSS
 
-### Les frameworks JS appris
-- ReactJS
+### Les frameworks JS
+- jQuery
+- React
 - Vue.js 3
 
-### Les frameworks PHP appris
+### Les frameworks PHP
 - Laravel 8 / Livewire
+- Symfony 5
 
 ### Base de données
 - MySql
 - Firebase
+
+### Mobile
+- Kotlin
+- React Native
 
 ### Environnement de développement
 - Visual Studio Code
@@ -36,7 +41,7 @@ Etudiant pour devenir développeur Web & Mobile
 - Adobe XD
 - Git
 - Github
-- Gitkraken
+- GitAhead
 
 ### Notions
 - WebMarketing
@@ -49,7 +54,7 @@ Etudiant pour devenir développeur Web & Mobile
 https://portfolio.ripley.eu/
 
 ```diff
-- Je recherche actuellement un contrat de professionnalisation pour ma deuxième année de formation (2021 / 2022)
+- Je recherche actuellement un stage d'une durée de 2 mois minimum (front-end, back-end, full-stack)
 ```
 
 ### Contact
