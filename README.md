@@ -6,7 +6,7 @@ Etudiant pour devenir développeur Web & Mobile
 - CSS 3
 - PHP 7/8
 - JS ES6 à ES9
-- TypeScript
+- TypeScript 4
 
 ### Les frameworks CSS
 - Bootstrap 4 / 5
