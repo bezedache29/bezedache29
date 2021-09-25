@@ -6,15 +6,16 @@ Etudiant pour devenir développeur Web & Mobile
 - CSS 3
 - PHP 7/8
 - JS ES6 à ES9
+- TypeScript
 
 ### Les frameworks CSS
 - Bootstrap 4 / 5
 - Materializecss
 - Tailwind CSS
 
-### Les frameworks JS
+### Les frameworks / librairies JS
 - jQuery
-- React
+- React (post 16.8 & Modern/Hooks) - React router
 - Vue.js 3 - VueX - VueRouter
 
 ### Les frameworks PHP
