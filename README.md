@@ -15,7 +15,7 @@ Etudiant pour devenir développeur Web & Mobile
 
 ### Les frameworks / librairies JS
 - jQuery
-- React (avant et après 16.8) - React router
+- React (avant et après 16.8) - React router - Redux
 - Vue.js 3 - VueX - VueRouter
 
 ### Les frameworks PHP
@@ -29,7 +29,7 @@ Etudiant pour devenir développeur Web & Mobile
 
 ### Mobile
 - Kotlin
-- React Native
+- React Native - React Navigation - Redux
 
 ### Environnement de développement
 - Visual Studio Code
