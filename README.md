@@ -1,6 +1,8 @@
 ## Christophe Salou
 Etudiant pour devenir développeur Web & Mobile
 
+![Cover](https://ripley.eu/perso/img/bg.jpg)
+
 ### Les languages
 - HTML 5
 - CSS 3
@@ -62,8 +64,6 @@ https://portfolio.ripley.eu/
 
 ### Contact
 bezedache29@gmail.com
-
-![Cover](https://ripley.eu/perso/img/bg.jpg)
 
 
 
