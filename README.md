@@ -1,12 +1,12 @@
 ## Christophe Salou
-Etudiant pour devenir développeur Web & Mobile
+Etudiant pour devenir développeur Web & Mobile 🖖🏻
 
 ![Cover](https://ripley.eu/perso/img/bg.jpg)
 
 ### Les languages
 - HTML 5
 - CSS 3
-- PHP 7/8
+-  PHP 7/8
 - JS ES6 à ES9
 - TypeScript 4
 
@@ -14,6 +14,7 @@ Etudiant pour devenir développeur Web & Mobile
 - Bootstrap 4 / 5
 - Materializecss
 - Tailwind CSS
+- Bulma
 
 ### Les frameworks / librairies JS
 - jQuery
@@ -44,6 +45,7 @@ Etudiant pour devenir développeur Web & Mobile
 - Postman
 - Adobe Illustrator
 - Adobe XD
+- Figma
 - Git
 - Github
 - GitAhead
@@ -53,6 +55,7 @@ Etudiant pour devenir développeur Web & Mobile
 - SEO
 - WebDesign
 - Gestion de projet
+- Methode Agile SCRUM
 - Progressive Web App
 
 ### Portfolio
