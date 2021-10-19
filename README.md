@@ -61,6 +61,8 @@ Etudiant pour devenir développeur Web & Mobile 🖖🏻
 ### Portfolio
 https://portfolio.ripley.eu/
 
+Ici ce qui suit [Lien](https://portfolio.ripley.eu/ "Mon protfolio").
+
 ```diff
 - Je recherche actuellement un stage d'une durée de 2 mois minimum (front-end, back-end, full-stack)
 ```
