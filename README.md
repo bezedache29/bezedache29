@@ -1,5 +1,5 @@
 ## Christophe Salou
-Etudiant pour devenir développeur Web & Mobile 🖖🏻
+Etudiant pour devenir développeur Web Full-Stack & Mobile 🖖🏻
 
 ![Cover](https://ripley.eu/perso/img/bg2.jpg) 
 
