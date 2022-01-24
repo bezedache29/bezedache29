@@ -1,7 +1,7 @@
 ## Christophe Salou
 Etudiant pour devenir développeur Web & Mobile 🖖🏻
 
-![Cover](https://ripley.eu/perso/img/bg.jpg) 
+![Cover](https://ripley.eu/perso/img/bg2.jpg) 
 
 ### Les languages
 - HTML 5
