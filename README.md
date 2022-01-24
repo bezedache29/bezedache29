@@ -20,10 +20,11 @@ Etudiant pour devenir développeur Web & Mobile 🖖🏻
 - jQuery
 - React (avant et après 16.8) - React router - Redux
 - Vue.js 3 - VueX - VueRouter
+- Angular 13
 
 ### Les frameworks PHP
 - Laravel 8 / Livewire
-- Symfony 5
+- Symfony 5 / 6
 
 ### Base de données
 - MySql
@@ -31,15 +32,15 @@ Etudiant pour devenir développeur Web & Mobile 🖖🏻
 - MonogoDB
 
 ### Mobile
-- Kotlin
 - React Native - React Navigation - Redux
+- Ionic
 
 ### Environnement de développement
 - Visual Studio Code
 - Android Studio
 
 ### CMS
-- Wordpress (Création de thèmes et utilistation du plugin ACF)
+- Wordpress (Création de thèmes + Création plugins)
 
 ### Autres
 - Postman
