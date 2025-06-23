@@ -53,10 +53,6 @@ Développeur Web Full-Stack & Mobile 🖖🏻
 ### Portfolio
 https://portfolio.ripley.eu/
 
-```diff
-- Je recherche actuellement un stage d'une durée de 2 mois minimum (front-end, back-end, full-stack)
-```
-
 ### Contact
 bezedache29@gmail.com
 
