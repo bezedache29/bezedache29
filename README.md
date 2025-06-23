@@ -1,55 +1,46 @@
 ## Christophe Salou
-Etudiant pour devenir développeur Web Full-Stack & Mobile 🖖🏻
+Développeur Web Full-Stack & Mobile 🖖🏻
 
 ![Cover](https://ripley.eu/perso/img/bg2.jpg) 
 
 ### Les languages
-- HTML 5
-- CSS 3
--  PHP 7/8
-- JS ES6 à ES9
-- TypeScript 4
+- HTML
+- CSS
+- PHP
+- JS
+- TypeScript
 
 ### Les frameworks CSS
-- Bootstrap 4 / 5
-- Materializecss
 - Tailwind CSS
-- Bulma
 
 ### Les frameworks / librairies JS
-- jQuery
-- React (avant et après 16.8) - React router - Redux
-- Vue.js 3 - VueX - VueRouter
-- Angular 13
+- React
 
 ### Les frameworks PHP
-- Laravel 8 / Livewire
-- Symfony 5 / 6
+- Laravel / Livewire
 
 ### Base de données
 - MySql
 - Firebase
-- MonogoDB
 
 ### Mobile
-- React Native - React Navigation - Redux
-- Ionic
+- React Native
 
 ### Environnement de développement
 - Visual Studio Code
+- Cursor
 - Android Studio
+- xCode
 
 ### CMS
 - Wordpress (Création de thèmes + Création plugins)
 
 ### Autres
 - Postman
-- Adobe Illustrator
-- Adobe XD
 - Figma
 - Git
 - Github
-- GitAhead
+- GitLab
 
 ### Notions
 - WebMarketing
