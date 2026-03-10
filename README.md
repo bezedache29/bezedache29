@@ -93,7 +93,7 @@ Fonctionnalités :
 - synchronisation API
 - notifications
 - géolocalisation
-- photos & vidéos*
+- photos & vidéos
 - achats in-app
 - publication sur stores
 
