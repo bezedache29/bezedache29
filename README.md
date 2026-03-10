@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Développeur Full-Stack & Mobile</strong><br>
-  React • TypeScript • Laravel • Docker
+  React-Native • React • TypeScript • Laravel • Docker
 </p>
 
 <br>
