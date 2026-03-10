@@ -33,7 +33,7 @@ J'aime travailler sur :
 
 🚀 **Stack principale**
 
-React • TypeScript • Laravel • React Native • Docker
+React Native • React • TypeScript • Laravel • Docker
 
 ⚙️ **Environnements**
 
