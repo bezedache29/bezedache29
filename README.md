@@ -1,6 +1,8 @@
 # Salut, je suis Christophe Salou 👋
 
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Web+Full-Stack+%26+Mobile;Expert+React,+TypeScript+%26+Laravel" alt="Typing SVG" />
+</div>
 
 
 Passionné par la création d'applications performantes et d'interfaces fluides. J'aime construire des architectures robustes et optimiser l'expérience utilisateur, du backend jusqu'au mobile.
