@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React+%7C+TypeScript+%7C+Laravel;Mobile+Apps+with+React+Native;Clean+Architecture+%26+DevOps+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Full-Stack+Web;React+%7C+TypeScript+%7C+Laravel;Applications+mobiles+avec+React+Native;Architecture+propre+%26+DevOps" />
 </p>
 
 ---
