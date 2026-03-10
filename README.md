@@ -13,6 +13,8 @@
 
 Passionné par la création d'applications performantes et d'interfaces fluides. J'aime construire des architectures robustes et optimiser l'expérience utilisateur, du backend jusqu'au mobile.
 
+</br>
+
 ### 👨‍💻 À propos de moi
 
 💡 **Passionné par** la création d'architectures robustes et l'optimisation d'interfaces fluides.
