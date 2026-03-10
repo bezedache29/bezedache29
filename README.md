@@ -36,7 +36,7 @@ Passionné par la création d'applications performantes et d'interfaces fluides.
     <img src="https://streak-stats.demolab.com?user=bezedache29&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
   </a>
   <a href="https://github.com/bezedache29">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezedache29&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Langages les plus utilisés" height="150" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bezedache29&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=15" alt="Trophées GitHub" height="150" />
   </a>
 </div>
 
