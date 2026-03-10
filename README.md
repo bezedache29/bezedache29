@@ -1,5 +1,14 @@
 # Salut, je suis Christophe Salou 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Salut,+je+suis+Christophe+Salou+👋;D%C3%A9veloppeur+Web+Full-Stack+%26+Mobile;Expert+React,+TypeScript+%26+Laravel" alt="Typing SVG" />
+
+  <p>
+    <a href="https://github.com/bezedache29"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=bezedache29&label=Vues%20du%20profil&color=0e75b6&style=flat"></a>
+    <a href="https://github.com/bezedache29?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/bezedache29?style=flat&color=38B2AC"></a>
+  </p>
+</div>
+
 Passionné par la création d'applications performantes et d'interfaces fluides. J'aime construire des architectures robustes et optimiser l'expérience utilisateur, du backend jusqu'au mobile.
 
 ### 👨‍💻 À propos de moi
