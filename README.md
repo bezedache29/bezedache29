@@ -121,11 +121,11 @@ React Native • TypeScript • API REST
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bezedache29&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bezedache29&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezedache29&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bezedache29&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br>
 
