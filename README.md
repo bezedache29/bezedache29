@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="caricature.png" width="320">
+  <img src="./img/caricature.png" width="320">
 </p>
 
 <h1 align="center">Salut, je suis Christophe Salou 👋</h1>
