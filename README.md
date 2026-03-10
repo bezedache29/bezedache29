@@ -37,7 +37,7 @@ Passionné par la création d'applications performantes et d'interfaces fluides.
   </a>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bezedache29)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bezedache29&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
