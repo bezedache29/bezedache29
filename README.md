@@ -34,11 +34,6 @@
 
 <div align="center">
   <a href="https://github.com/bezedache29">
-    <img src="https://github-readme-stats.vercel.app/api?username=bezedache29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezedache29&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" height="150" />
-  </a>
-  <br><br>
-  <a href="https://github.com/bezedache29">
     <img src="https://streak-stats.demolab.com?user=bezedache29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
