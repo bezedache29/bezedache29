@@ -29,6 +29,8 @@ Passionné par la création d'applications performantes et d'interfaces fluides.
 
 📬 **Me contacter :** [bezedache29@gmail.com](mailto:bezedache29@gmail.com)
 
+</br>
+
 ---
 
 ### 🛠️ Ma Stack Technique
