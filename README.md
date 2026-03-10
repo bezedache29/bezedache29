@@ -33,8 +33,6 @@ Passionné par la création d'applications performantes et d'interfaces fluides.
 
 ---
 
-### 🛠️ Ma Stack Technique
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,tailwind,html,css&perline=8" alt="Langages et Frameworks" />
@@ -44,8 +42,6 @@ Passionné par la création d'applications performantes et d'interfaces fluides.
 </p>
 
 ---
-
-### 📊 Mes Statistiques GitHub
 
 <div align="center">
   <a href="https://github.com/bezedache29">
