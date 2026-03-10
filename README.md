@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="caricature.gif" width="320">
+</p>
+
 <h1 align="center">Salut, je suis Christophe Salou 👋</h1>
 
 </br>
