@@ -31,7 +31,7 @@ Passionné par la création d'applications performantes et d'interfaces fluides.
 
 ### 📊 Mes Statistiques
 
-<img src="https://streak-stats.demolab.com?user=bezedache29&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" align="center" />
+<img src="https://streak-stats.demolab.com?user=bezedache29&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
 
 ---
 
