@@ -60,7 +60,7 @@ Laravel • React • TypeScript • Docker • Traefik
 Fonctionnalités :
 
 - gestion des locataires
-- gestion documentaire
+- gestion charges & loyers
 - dashboard analytics
 - automatisation des processus
 
@@ -91,6 +91,10 @@ Fonctionnalités :
 
 - authentification
 - synchronisation API
+- notifications
+- géolocalisation
+- photos & vidéos*
+- achats in-app
 - publication sur stores
 
 Stack :
