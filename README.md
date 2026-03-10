@@ -1,60 +1,152 @@
 <p align="center">
-  <img src="./img/caricature.png" width="150">
+  <img src="./img/caricature.png" width="170">
 </p>
 
 <h1 align="center">Salut, je suis Christophe Salou 👋</h1>
 
-</br>
-</br>
+<p align="center">
+  <strong>Développeur Full-Stack & Mobile</strong><br>
+  React • TypeScript • Laravel • Docker
+</p>
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Web+Full-Stack+%26+Mobile;Expert+React,+TypeScript+%26+Laravel" alt="Typing SVG" />
-</div>
-
-</br>
-</br>
-
-
-Passionné par la création d'applications performantes et d'interfaces fluides. J'aime construire des architectures robustes et optimiser l'expérience utilisateur, du backend jusqu'au mobile.
-
-</br>
-
-### 👨‍💻 À propos de moi
-
-💡 **Passionné par** la création d'architectures robustes et l'optimisation d'interfaces fluides.
-
-✨ **J'explore toujours** de nouvelles façons de conteneuriser et sécuriser mes environnements de travail (Docker, Traefik, WSL2).
-
-💭 **J'apprends actuellement** l'automatisation des revues de code et les hooks d'intégration (Husky, CodeRabbit).
-
-🚀 **Je travaille sur** Leasy, une application web sur-mesure (PHP/Laravel Sail, React, TypeScript) de gestion immobilière complète.
-
-🤝 **Je collabore sur** tout projet stimulant impliquant l'écosystème React, Laravel ou des optimisations DevOps locales !
-
-📬 **Me contacter :** [bezedache29@gmail.com](mailto:bezedache29@gmail.com)
-
-</br>
-
----
+<br>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,tailwind,html,css&perline=8" alt="Langages et Frameworks" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,docker,ubuntu,vscode,git,github,wordpress&perline=8" alt="Outils et BDD" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React+%7C+TypeScript+%7C+Laravel;Mobile+Apps+with+React+Native;Clean+Architecture+%26+DevOps+Enthusiast" />
 </p>
 
 ---
 
-<div align="center">
-  <a href="https://github.com/bezedache29">
-    <img src="https://streak-stats.demolab.com?user=bezedache29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+# 👨‍💻 À propos de moi
+
+💻 **Développeur Full-Stack & Mobile**
+
+Je conçois des applications modernes avec une architecture propre et performante.
+
+J'aime travailler sur :
+
+- applications web modernes
+- APIs robustes
+- applications mobiles
+- environnements Dockerisés
+- optimisation UX / performance
+
+🚀 **Stack principale**
+
+React • TypeScript • Laravel • React Native • Docker
+
+⚙️ **Environnements**
+
+Docker • Traefik • WSL2 • Linux
+
+🧠 **Toujours en train d'explorer**
+
+- automatisation du workflow dev
+- revue de code automatisée
+- architecture scalable
+
+---
+
+# 🚀 Projets
+
+## 🏠 Leasy
+
+Application web moderne de **gestion immobilière**.
+
+Stack :
+
+Laravel • React • TypeScript • Docker • Traefik
+
+Fonctionnalités :
+
+- gestion des locataires
+- gestion documentaire
+- dashboard analytics
+- automatisation des processus
+
+---
+
+## 🚴 Plateforme de randonnées VTT
+
+Application permettant aux clubs de publier leurs randonnées.
+
+Fonctionnalités :
+
+- carte interactive (Leaflet)
+- téléchargement GPX
+- calendrier des événements
+- préinscriptions
+
+Stack :
+
+Laravel • React • API REST
+
+---
+
+## 📱 Applications Mobile
+
+Applications **React Native** connectées à des APIs REST / GraphQL.
+
+Fonctionnalités :
+
+- authentification
+- synchronisation API
+- publication sur stores
+
+Stack :
+
+React Native • TypeScript • API REST
+
+---
+
+# 🧰 Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,tailwind,html,css&perline=8" />
 
 <br>
 
-<div align="center">
-  <i>🚀 Création, Automatisation et Optimisation de l'écosystème web.</i>
-</div>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,ubuntu,vscode,git,github,wordpress&perline=8" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bezedache29&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezedache29&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=bezedache29&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🤝 Me contacter
+
+📬 **Email**
+
+bezedache29@gmail.com
+
+💼 **Ouvert aux collaborations**
+
+- projets React / Laravel
+- apps mobiles
+- architecture web moderne
+
+---
+
+<p align="center">
+
+<i>🚀 Construire des applications robustes, performantes et élégantes.</i>
+
+</p>
