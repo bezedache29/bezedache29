@@ -41,6 +41,14 @@ Passionné par la création d'applications performantes et d'interfaces fluides.
 
 ---
 
-### 📫 Me contacter
+### 📫 Me contacter & Réseaux
+
+<p align="left">
+  <a href="https://github.com/bezedache29" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/christophe-salou" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/5560795/bezedache" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="StackOverflow" height="30" width="40" /></a>
+  <a href="https://fb.com/tophe.salou" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://discord.gg/ripley6300" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+</p>
 
 * ✉️ **Email :** [bezedache29@gmail.com](mailto:bezedache29@gmail.com)
