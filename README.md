@@ -135,7 +135,7 @@ bezedache29@gmail.com
 
 💼 **Ouvert aux collaborations**
 
-- projets React / Laravel
+- projets React-Native / React / Laravel
 - apps mobiles
 - architecture web moderne
 
