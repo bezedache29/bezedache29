@@ -1,4 +1,4 @@
-# Salut, je suis Christophe Salou 👋
+<h1 align="center">Salut, je suis Christophe Salou 👋</h1>
 
 </br>
 </br>
