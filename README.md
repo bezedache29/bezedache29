@@ -1,47 +1,43 @@
-<h1 align="center">👋🏻 Salut, je suis Christophe Salou</h1>
-<h3 align="center">Développeur Web Full-Stack & Mobile 🖖🏻</h3>
+# Salut, je suis Christophe Salou 👋
 
-<p align="center">
-  Passionné par la création d'applications performantes et d'interfaces fluides. J'évolue principalement dans les écosystèmes <b>React / React Native</b> et <b>PHP / Laravel</b>, avec un fort attrait pour l'optimisation de l'expérience utilisateur et des workflows de développement modernes.
-</p>
+<a href="https://github.com/bezedache29">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&vCenter=true&width=600&lines=D%C3%A9veloppeur+Web+Full-Stack+%26+Mobile;Expert+React,+TypeScript+%26+Laravel;Optimisation+des+workflows+%26+UI/UX" alt="Typing SVG" />
+</a>
+
+Passionné par la création d'applications performantes et d'interfaces fluides. J'aime construire des architectures robustes et optimiser l'expérience utilisateur, du backend jusqu'au mobile.
+
+### 👨‍💻 Ce que je fais actuellement
+
+- 🔭 Je développe **Leasy**, une application web complète de gestion immobilière (charges, loyers, baux, quittances).
+- 💻 Ma stack de prédilection s'articule autour de **PHP / Laravel Sail** en backend et **React / TypeScript** avec **TailwindCSS** en frontend.
+- 🛠️ Mon environnement de travail est optimisé sous **WSL2** avec **Docker**, sécurisé par un proxy **Traefik**, et je code sous **Windsurf** avec des hooks **Husky** pour garantir la qualité de mon code.
 
 ---
 
-### 🔭 Ce que je fais actuellement
-Je me concentre sur le développement d'applications full-stack sécurisées et conteneurisées. Actuellement, je conçois une plateforme de gestion immobilière complète, exploitant la puissance de **Laravel Sail**, **React** et **TypeScript** derrière un reverse proxy Traefik, le tout développé sous un environnement **WSL2** optimisé avec des outils comme **Windsurf** et **Husky**.
-
-### 🛠️ Ma Stack Technique
+### 🚀 Ma Stack Technique
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <br/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,tailwind,html,css&perline=8" alt="Langages et Frameworks" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,docker,git,github,gitlab,vscode,wordpress&perline=8" alt="Outils et BDD" />
+  </a>
 </p>
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### 📊 Mes Statistiques
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bezedache29&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Statistiques GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezedache29&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Langages les plus utilisés" width="48%" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bezedache29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezedache29&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" height="150" />
 </div>
 
 ---
 
 ### 📫 Me contacter
+
 * ✉️ **Email :** [bezedache29@gmail.com](mailto:bezedache29@gmail.com)
