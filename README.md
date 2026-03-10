@@ -37,7 +37,7 @@ React Native • React • TypeScript • Laravel • Docker
 
 ⚙️ **Environnements**
 
-Docker • Traefik • WSL2 • Linux • Windows
+Docker • Traefik • WSL2 • Linux • Windows • Mac OS 
 
 🧠 **Toujours en train d'explorer**
 
