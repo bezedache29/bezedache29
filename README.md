@@ -119,6 +119,8 @@ React Native • TypeScript • API REST
 
 # 📊 GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=bezedache29&show_icons=true&theme=tokyonight&hide_border=true">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bezedache29&show_icons=true&theme=transparent)
 
 <p align="center">
