@@ -118,12 +118,17 @@ React Native • TypeScript • API REST
 ---
 
 # 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bezedache29&show_icons=true&theme=tokyonight&hide_border=true">
-</p>
-<br />
-<p align="center">
-  
+
+<img src="https://github-readme-stats.vercel.app/api?username=bezedache29&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezedache29&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
 <img src="https://streak-stats.demolab.com?user=bezedache29&theme=tokyonight&hide_border=true"/>
 
 </p>
