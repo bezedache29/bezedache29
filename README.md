@@ -117,19 +117,23 @@ React Native • TypeScript • API REST
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bezedache29&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/bezedache29">
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bezedache29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
 
-<br>
+<a href="https://github.com/bezedache29">
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bezedache29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezedache29&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<br>
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=bezedache29&theme=tokyonight&hide_border=true"/>
+<img width="60%" src="https://streak-stats.demolab.com?user=bezedache29&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </p>
 
