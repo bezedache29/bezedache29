@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-<img width="49%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Web+Full-Stack;React+%7C+TypeScript+%7C+Laravel;Applications+mobiles+avec+React+Native;Architecture+propre+%26+DevOps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=D%C3%A9veloppeur+Web+Full-Stack;React+%7C+TypeScript+%7C+Laravel;Applications+mobiles+avec+React+Native;Architecture+propre+%26+DevOps" />
 </p>
 
 ---
@@ -119,7 +119,7 @@ React Native • TypeScript • API REST
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bezedache29&show_icons=true&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezedache29&layout=compact&theme=tokyonight&hide_border=true"/> <br> <img src="https://streak-stats.demolab.com?user=bezedache29&theme=tokyonight&hide_border=true"/> </p>
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bezedache29&show_icons=true&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bezedache29&layout=compact&theme=tokyonight&hide_border=true"/> <br> <img src="https://streak-stats.demolab.com?user=bezedache29&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
